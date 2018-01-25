@@ -1,0 +1,17 @@
+.sidebar {
+  width= 15%;
+  background-color: #e8eaed;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.right {
+  float: right;
+}
+
+li.horizontal {
+  float: left;
+  margin-left: 10px;
+}
